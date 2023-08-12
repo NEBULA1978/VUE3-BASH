@@ -54,5 +54,3 @@ h1 {
   color: blue;
 }
 </style>
-<!-- Hace lo mismo con computed que con funcion -->
-<!-- Voy por1h35 Fundamentos de Vue 3 con Composition API: Aprende a crear aplicaciones web modernas y escalables -->
